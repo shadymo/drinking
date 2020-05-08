@@ -31,8 +31,13 @@ const taskHolder = {
         'Arm wrestle the person to either side of you, loser takes a shot',
         'Start off the rhyming game, loser takes a shot',
         'Pick 3 other people to take a shot with you',
-        'If someone is willing to share a shot take a shot with them, if not take 2 shots'
-
+        'If someone is willing to share a shot take a shot with them, if not take 2 shots',
+        'Person to left and right take a shot each',
+        'The Person Across from you takes a shot',
+        'Play the categories game',
+        'Pick a mate, till the next mate is chosen',
+        'Pick a rule, till the next rules is chosen , take a shot everytime rule is broken',
+        'Pick a "Guardain", whenever they drink everyone drinks!'
 
     ]
 }

@@ -32,4 +32,7 @@
     #card{
         width: 70vw;
     }
+    #container{
+        padding: 15%
+    }
 }
