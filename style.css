@@ -1,4 +1,4 @@
-*{ margin: 0; padding: 0;}
+*{ background-color: black;margin: 0; padding: 0;}
 #container{
     background-color: black;
     padding: 25%;
@@ -17,13 +17,14 @@
     align-items: center;
 }
 #next{
-    margin: 10px;
+    margin: 15px;
     border: red 2px solid;
     background-color: black;
     color: white;
     width: fit-content;
-    font-size: larger;
+    font-size: 50px;
 }
 #task{
+    background-color: aliceblue;
     margin: 0 auto;
 }
