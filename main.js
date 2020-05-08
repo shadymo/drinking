@@ -22,6 +22,17 @@ const taskHolder = {
         'All guys drink',
         'All girls drink',
         'Never have I ever',
-        'WATERFALLLL!'
+        'Play the State Game, loser takes 2 shots',
+        'Pick someone to ask you Truth or Dare, take 3 shots if u deny',
+        'Ask anyone Truth or Dare, they take 3 shots if they deny',
+        'You start telephone, if its wrong, everyone takes a shot',
+        'Whoevers birthdays the closest, takes a shot',
+        'Whoever sparked the last blunt, take a shot',
+        'Arm wrestle the person to either side of you, loser takes a shot',
+        'Start off the rhyming game, loser takes a shot',
+        'Pick 3 other people to take a shot with you',
+        'If someone is willing to share a shot take a shot with them, if not take 2 shots'
+
+
     ]
 }
